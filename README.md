@@ -3,9 +3,13 @@
 **Course:** Open Source Software (OSS NGMC) 
 
 **Student:** Matangi Sharma
+
 **Registration Number:** 24BAI10765
+
 **Chosen Software:** Git — Distributed Version Control System 
+
 **License of Chosen Software:** GNU General Public License v2 (GPLv2)
+
 ---
 
 ## About This Project
