@@ -6,7 +6,6 @@
 **Registration Number:** 24BAI10765
 **Chosen Software:** Git — Distributed Version Control System 
 **License of Chosen Software:** GNU General Public License v2 (GPLv2)
-**University** VIT Bhopal University
 ---
 
 ## About This Project
